@@ -1,0 +1,32 @@
+.laybox-one{
+	background-color: yellow;
+	width: 100%;
+	height: 50px;
+	margin-bottom: 15px;
+}
+
+
+
+.laybox-two{
+	background-color: pink;
+	width: 100%;
+	height:150px;
+	margin-bottom: 20px;
+}
+#fcontainer{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+#fcontainer div {
+	background-color: blue;
+	height: 150px;
+	width: 150px;
+
+}
+.laybox-three {
+	width: 100%;
+	height: 70px;
+	background-color: red;
+	margin-top: 20px;
+}
